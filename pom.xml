@@ -4,7 +4,7 @@
 
   <groupId>com.blibli.oss</groupId>
   <artifactId>version-plugin</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>version-plugin</name>
@@ -20,7 +20,7 @@
   <scm>
     <connection>scm:git:git@github.com:bliblidotcom/version-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:bliblidotcom/version-plugin.git</developerConnection>
-    <tag>version-plugin-0.0.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <properties>
