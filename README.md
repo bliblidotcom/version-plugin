@@ -26,7 +26,7 @@ Add this dependency in your ```pom.xml```
   <dependency>
    <groupId>com.blibli.oss</groupId>
    <artifactId>version-plugin</artifactId>
-   <version>0.0.1-RELEASE</version>
+   <version>...</version>
  </dependency>
  ...
 </dependencies>
